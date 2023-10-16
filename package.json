@@ -1,0 +1,14 @@
+{
+  "name": "materialize-porfolio",
+  "version": "1.0.0",
+  "description": "Materialize Clone",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/index.scss css/style.css"
+  },
+  "author": "Habiba Sarwar",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
